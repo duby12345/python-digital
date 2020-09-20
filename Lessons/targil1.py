@@ -1,6 +1,5 @@
-a=3
-b=3
-print (a**b)
+a=11
+print ("the number is: " + str(a))
 
 
 
